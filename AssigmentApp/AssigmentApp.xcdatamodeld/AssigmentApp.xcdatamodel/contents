@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15702" systemVersion="19D76" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Article" representedClassName=".Article" syncable="YES">
+        <attribute name="avatar_user" optional="YES" attributeType="String"/>
+        <attribute name="blogId_user" optional="YES" attributeType="String"/>
+        <attribute name="comments" optional="YES" attributeType="String"/>
+        <attribute name="content" optional="YES" attributeType="String"/>
+        <attribute name="createAt_user" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="image_media" optional="YES" attributeType="String"/>
+        <attribute name="lastname_user" optional="YES" attributeType="String"/>
+        <attribute name="likes" optional="YES" attributeType="String"/>
+        <attribute name="name_user" optional="YES" attributeType="String"/>
+        <attribute name="url_media" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Article" positionX="-63" positionY="-18" width="128" height="208"/>
+    </elements>
+</model>
